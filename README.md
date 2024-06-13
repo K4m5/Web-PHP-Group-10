@@ -18,3 +18,11 @@ Dự án này là một hệ thống web đặt phòng khách sạn, được x�
 - MySQL
 - HTML, CSS, JavaScript
 - Bootstrap (hoặc framework CSS khác)
+
+## Thành viên nhóm
+
+- **Nguyễn Hoàng Anh** 
+- **Nguyễn Văn Minh** 
+- **Phạm Đình Ba** 
+- **Đỗ Minh Quân** 
+
